@@ -10,4 +10,4 @@ These two parameters are learned through the model. As you can see, given certai
 In fact, this is actually the very standard and simple way to change the brightness of an image.
 
 The model is a simple CNNs with MaxPool downsample. It is implemented in Keras. To train the model, simply edit training.py for appropriate epoch value and training data, and use it to train.
-The pre-trained weights is available at https://drive.google.com/drive/folders/1bwNq0u_7cEcdJZ0kFQnDu86JVoVo3YYP?usp=sharing
+The pre-trained weights is available in the github itself. I am also writing a webapp for this model.
